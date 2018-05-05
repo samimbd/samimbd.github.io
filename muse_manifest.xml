@@ -1,0 +1,61 @@
+<manifest alg="2" build="2015.0.0.309" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="awal.com" resolutions="1x" timestamp="1525448008017">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="master_a-master.css" crc="100558281" ref="contact:untitled-7:shop:untitled-5:untitled-14:untitled-4:untitled-12:untitled-13:untitled-6:service:gallary:about:index"/>
+    <file name="contact.css" crc="4256153520" ref="contact"/>
+    <file name="untitled-7.css" crc="4256153520" ref="untitled-7"/>
+    <file name="shop.css" crc="4256153520" ref="shop"/>
+    <file name="untitled-5.css" crc="4256153520" ref="untitled-5"/>
+    <file name="untitled-14.css" crc="4256153520" ref="untitled-14"/>
+    <file name="untitled-4.css" crc="4256153520" ref="untitled-4"/>
+    <file name="untitled-12.css" crc="4256153520" ref="untitled-12"/>
+    <file name="untitled-13.css" crc="4256153520" ref="untitled-13"/>
+    <file name="untitled-6.css" crc="4256153520" ref="untitled-6"/>
+    <file name="service.css" crc="4256153520" ref="service"/>
+    <file name="gallary.css" crc="4256153520" ref="gallary"/>
+    <file name="about.css" crc="4256153520" ref="about"/>
+    <file name="index.css" crc="380961061" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:service:untitled-4:untitled-5:untitled-6:untitled-7:gallary:shop:untitled-12:untitled-13:untitled-14:about:contact"/>
+    <file name="museutils.js" crc="183364071" ref="index:service:untitled-4:untitled-5:untitled-6:untitled-7:gallary:shop:untitled-12:untitled-13:untitled-14:about:contact"/>
+    <file name="jquery.musemenu.js" crc="3957776250" ref="index:service:untitled-4:untitled-5:untitled-6:untitled-7:gallary:shop:untitled-12:untitled-13:untitled-14:about:contact"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="webpro.js" crc="3803554875" ref="index:service:untitled-4:untitled-5:untitled-6:untitled-7:gallary:shop:untitled-12:untitled-13:untitled-14:about:contact"/>
+    <file name="musewpslideshow.js" crc="242596657" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="493285861" ref="index"/>
+    <file name="touchswipe.js" crc="4038331989" ref="index"/>
+    <file name="form_check.php" crc="277267350" ref="index:service:untitled-4:untitled-5:untitled-6:untitled-7:gallary:shop:untitled-12:untitled-13:untitled-14:about:contact"/>
+    <file name="form_throttle.php" crc="3908387251" ref="index:service:untitled-4:untitled-5:untitled-6:untitled-7:gallary:shop:untitled-12:untitled-13:untitled-14:about:contact"/>
+    <file name="form_process.php" crc="24249335" ref="index:service:untitled-4:untitled-5:untitled-6:untitled-7:gallary:shop:untitled-12:untitled-13:untitled-14:about:contact"/>
+    <file name="form-u538.php" crc="3948924504" ref="index:service:untitled-4:untitled-5:untitled-6:untitled-7:gallary:shop:untitled-12:untitled-13:untitled-14:about:contact"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index:service:untitled-4:untitled-5:untitled-6:untitled-7:gallary:shop:untitled-12:untitled-13:untitled-14:about:contact"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:service:untitled-4:untitled-5:untitled-6:untitled-7:gallary:shop:untitled-12:untitled-13:untitled-14:about:contact"/>
+  </folder>
+  <folder name="images">
+    <file name="images.jpg" crc="4150950945" ref="index"/>
+    <file name="arrowmenudown.gif" crc="213132104" ref="index"/>
+    <file name="colorful-apple-wallpaper-wallpapers-apple-gallery-92-plus-pic-wpw105045.jpg" crc="4066072823" ref="index"/>
+    <file name="10205176-world-news-concept-abstract-world-map-made-from-world-news-words-vector--ieu284-fr.png" crc="464346150" ref="index"/>
+    <file name="10205176-world-news-concept-abstract-world-map-made-from-world-news-words-vector-.jpg" crc="4229111929" ref="index"/>
+    <file name="36201903-music-wallpaper.jpg" crc="4055363856" ref="index"/>
+    <file name="u544-21.png" crc="489606604" ref="index:service:untitled-4:untitled-5:untitled-6:untitled-7:gallary:shop:untitled-12:untitled-13:untitled-14:about:contact"/>
+    <file name="u544-21-r.png" crc="3909251148" ref="index:service:untitled-4:untitled-5:untitled-6:untitled-7:gallary:shop:untitled-12:untitled-13:untitled-14:about:contact"/>
+    <file name="u544-21-m.png" crc="385905370" ref="index:service:untitled-4:untitled-5:untitled-6:untitled-7:gallary:shop:untitled-12:untitled-13:untitled-14:about:contact"/>
+    <file name="u544-21-fs.png" crc="186992565" ref="index:service:untitled-4:untitled-5:untitled-6:untitled-7:gallary:shop:untitled-12:untitled-13:untitled-14:about:contact"/>
+  </folder>
+  <file name="index.html" crc="79292523" seo="true" mt="1525447504489" redirect="true"/>
+  <file name="service.html" crc="3971092059" seo="true" mt="1525447504489" redirect="true"/>
+  <file name="untitled-4.html" crc="195126695" seo="true" mt="1525447504489" redirect="true"/>
+  <file name="untitled-5.html" crc="244704705" seo="true" mt="1525447504489" redirect="true"/>
+  <file name="untitled-6.html" crc="78271089" seo="true" mt="1525447504489" redirect="true"/>
+  <file name="untitled-7.html" crc="53580084" seo="true" mt="1525447504489" redirect="true"/>
+  <file name="gallary.html" crc="348692817" seo="true" mt="1525447504489" redirect="true"/>
+  <file name="shop.html" crc="3810898270" seo="true" mt="1525447504489" redirect="true"/>
+  <file name="untitled-12.html" crc="83762549" seo="true" mt="1525447504489" redirect="true"/>
+  <file name="untitled-13.html" crc="4023827594" seo="true" mt="1525447504489" redirect="true"/>
+  <file name="untitled-14.html" crc="4102216443" seo="true" mt="1525447504489" redirect="true"/>
+  <file name="about.html" crc="422412980" seo="true" mt="1525447504489" redirect="true"/>
+  <file name="contact.html" crc="241430139" seo="true" mt="1525447504489" redirect="true"/>
+</manifest>
